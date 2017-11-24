@@ -5,7 +5,7 @@ Set oShell = CreateObject( "WScript.Shell" )
 
 Dim JenkinHome,HomePath, smRunPath ,JenkinStartFolder, JobName
 
-JobName = "PackageDeployment"   		'******************Enter The Jenkins Job Name here****************				
+JobName = "PackageDeployment"   		'***************Enter The Jenkins Job Name here****************				
 
 smRunPath="C:\Program Files (x86)\HPE\Service Manager 9.50\Server\RUN"    '*****************Enter The SM Run diretory Path here****************
 
